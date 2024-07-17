@@ -12,8 +12,6 @@ import React, { useState } from "react";
 //ICONS
 import AddCircleOutlineIcon from '@mui/icons-material/AddCircleOutline';
 
-
-
 export default function Vendor() {
 
   let [page, setPage] = useState(true)
